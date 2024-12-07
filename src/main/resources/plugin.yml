@@ -1,0 +1,5 @@
+name: Apier
+version: '1.0'
+main: Donald.apier.Apier
+api-version: '1.21'
+description: Plugin for Minecraft Server
